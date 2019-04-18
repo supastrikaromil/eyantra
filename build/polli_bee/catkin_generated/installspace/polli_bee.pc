@@ -1,0 +1,8 @@
+prefix=/home/supastrikaromil/catkin_ws/install
+
+Name: polli_bee
+Description: Description of polli_bee
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/supastrikaromil/catkin_ws/install/lib 
+Requires: 
